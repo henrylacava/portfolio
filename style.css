@@ -115,14 +115,9 @@ html {
   transform: scale(0.99);
 }
 
-.setaBaixo a{
-  display: flex;
-  justify-content: center;
-}
-
-.setaBaixo img{
-  width: 7%;
-  margin-top: 58px;
+.setaBaixo{
+  margin-top: 70px;
+  height: 50px;
   animation: jumping 1s linear infinite;
   cursor: pointer;
 }
